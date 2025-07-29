@@ -1,4 +1,4 @@
-# <p align="center">ggWorld</p>
+# ggWorld
 ## <p align="center">![Language](https://img.shields.io/badge/Language-R-brightgreen)</p>
 Color schemes for data visualization based on Art, Music, Films, Microbes, Minerals, and Geology.
 
